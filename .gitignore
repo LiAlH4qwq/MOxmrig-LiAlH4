@@ -1,4 +1,5 @@
 /build
+/out
 scripts/build
 scripts/deps
 /CMakeLists.txt.user
